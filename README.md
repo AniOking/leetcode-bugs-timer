@@ -1,2 +1,3 @@
-# leetcode-bugs-timer
+## leetcode-bugs-timer
 Tried to correct tooltip bug.
+
